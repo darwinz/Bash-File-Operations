@@ -1,3 +1,7 @@
+# Some Bash commands to make certain file operations easier
+
+### Clone this repository, then add the following into your ~/.bashrc :  `source path/to/file_operations.sh` replacing "path/to" with the actual file path to the file_operations.sh file
+
 1. __File Operation commands__
    	- `file_create` - Create a file that contains random contents with a specified size and filepath as prompted by the program
     	- no arguments - user is prompted for required input
